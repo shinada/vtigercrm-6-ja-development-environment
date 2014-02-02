@@ -1,0 +1,50 @@
+********************************************************************************
+*                        Subversive connectors Change Log                      *
+*                                                                              *
+* Subversive - a brand new Eclipse Client for Subversion (SVN)                 *
+* See details at http://www.eclipse.org/subversive and http://www.polarion.com *
+********************************************************************************
+
+This connectors works only with Subversive version which is distributed from Eclipse.org site.
+ 
+Version 3.0.1.I20130301-1700 release date: 01 March 2013
+
+1. What's New
+
+   The version is 3.0.1 service release.
+   
+   Changes in compare with previous version are listed below. The full list of 
+   changes you can find in Change Log.	 
+
+	Features:
+	 * Provide support for post-commit hook's messages (bug 400575)
+	 * Update JavaHL binaries to 1.7.8 (bug 398671)
+	 * Use SVN Kit 1.7.8 (bug 398669)
+	 * SVN Connectors failed to install in Eclipse 64 bit for RCP and RAP Developers. [Win64 support] (bug 376317)
+	 * Create Win64 binaries fragment for the JavaHL connector (bug 397131)
+	 * Update SVN Kit 1.3.7 to 1.3.8 (bug 385034)
+	
+	Fixes:
+	 * NPE in connectors during merge [ID-K52J4] (bug 394711)
+	 * ArrayIndexOutOfBoundsException in SVNKitConnector.mergeStatus [ID-BO5ZC] (bug 393852)
+	 * Subversive with SVN Kit Connector unusable under Linux + Mac OS X: always fails with "Unable to locate a login configuration" (bug 323418)
+
+2. Information
+
+2.1. System Requirements
+
+   Subversive requires JDK 1.5 or higher and supports following versions of Eclipse:
+    * 3.6
+    * 3.7
+    * 3.8
+    * 4.2
+    * 4.3
+       
+   Subversive supports 
+    Subversion version 1.4-1.6 with SVN Kit 1.3.8 and JavaHL 1.6.15,
+    Subversion version 1.7 with SVN Kit 1.7.8 and JavaHL 1.7.8, 
+
+2.2 Known issues
+
+	* "Deadlock when JNA is loading" problem on Mac OS X [using SVN Kit connector]
+	* Deleting and replacing a resource is a SVN delete/add instead of a modify

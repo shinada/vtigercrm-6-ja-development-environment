@@ -1,0 +1,34 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: mpcWS71rIQLDk2dU6vF9P4R4RXc=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: KRsZ9XbVnFtDdN1sV8y/O+pgNxo=
+
+Name: eclipse32.png
+SHA1-Digest: Yg2IAx+o7H2tbLyk4cwOAV+K+R4=
+
+Name: about.ini
+SHA1-Digest: N1ViLn4e0rexitFjqUArR8o3vAc=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: pRjcwolYF2khdZiEjEqBwPcBSxY=
+
+Name: about.properties
+SHA1-Digest: q9kF3gPGuVCDmSlYI39vVXu0WUg=
+
+Name: about.mappings
+SHA1-Digest: oV8gHZBR+YkksYev2qbKhQgylVI=
+
+Name: about.html
+SHA1-Digest: qXFpXYJp+XfIhgP86P3G2uE6mfE=
+
+Name: META-INF/maven/org.eclipse.dltk.core/org.eclipse.dltk.core.index
+ /pom.xml
+SHA1-Digest: R4hHIRa+GhLS+qhF8dPwPP/NxHI=
+
+Name: META-INF/maven/org.eclipse.dltk.core/org.eclipse.dltk.core.index
+ /pom.properties
+SHA1-Digest: v6PTBjdk/B/+ycsf6nhw1tVKEIA=
+
+Name: plugin.properties
+SHA1-Digest: d/eRG/Zbi9eRbVVxnvOAnxPthE4=
+
