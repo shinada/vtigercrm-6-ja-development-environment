@@ -21,7 +21,7 @@ vtigerCRM 日本語版の改善コードは GitHub の Pull Request　機能等�
 
 
 注１ pleiades および xampp フォルダをルート以外にコピーすることも可能です。その場合は、xampp フォルダ内のsetup_xampp.bat を実行します。  
-注２ または、xampp-control.exe を実行して、表示されたUIパネルから任意のサービスを開始します。
+注２ または、xampp-control.exe を実行して、表示されたUIパネルから Apache および MySql を起動します。
 
 ----
 by vtiger CRM Japanese Project Team
